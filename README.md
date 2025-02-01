@@ -1,17 +1,17 @@
 
-It's randomly generating a 68 letter characthers and u need to specify the serverid before generation.
+**Proxyless Generator-Checker**
 
-Proxyless Generator-Checker
+**It's randomly generating a 68 letter characthers and u need to specify the serverid before generation.**
 
 ---------------------------------------------
-Setup;
+***Setup;***
 
 Open CMD and cd to ur project folder then type pip install -r requirements.txt
 
-And now u can type py webhooksniper.py enjoy!!
+**And now u can type py webhooksniper.py enjoy!!**
 
 ---------------------------------------------
 
-For Educational Purposes Only!
+***For Educational Purposes Only!***
 
-give a star man :)
+**give a star man :)**
